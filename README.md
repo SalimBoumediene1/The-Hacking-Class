@@ -14,7 +14,5 @@ Boumedine Salim| @SaSSou
 
 #fonctionnalité
 
-Ce dossier est le modél d'une base de donnée d'un site qui qui dispense de cours pour plusieurs éléves.
-les éléves peuvent particier à un cours...
-
+Ce dossier est le modél d'une base de donnée d'un blog de the hacking project.
 Enjoy !
